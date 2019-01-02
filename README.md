@@ -18,3 +18,5 @@ React application which represents Classic Tic Tac Toe game with the responsive 
 * clone or download the project
 * run npm install in order to install all the dependencies
 * run npm start in order to start the development server
+
+![Screenshot](tic-tac-toe.png)
