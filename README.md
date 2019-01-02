@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-React application which represents Classic Tic Tac Toe game with the responsive layout.
+Two pages React application which represents Classic Tic Tac Toe game with the responsive layout.
 
 ## Rules:
  - each player has 30 seconds to make a move. 
